@@ -1,24 +1,38 @@
-# README
+# (仮)T-map
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+### サイトテーマ
+どこにどんなトイレがあるか検索したり、投稿したりできるアプリ
+<...>
 
-Things you may want to cover:
+### テーマを選んだ理由
+自身がトランスジェンダー(※)ということもあり、人目が気になるので女性用トイレを使用しずらいと感じている。
+そのため外出時にトイレに行きたくなった際は、極力多目的トイレや男女兼用のトイレを使用している。
+しかし実際にトイレに行ってみないと多目的トイレや男女兼用のトイレがあるか分からない。また、あったとしても清潔感がわからない。
+そのためトイレのレビューを行えるアプリを制作すれば、同じように困っている方を救えるのではないかと思い、制作に着手しました。
 
-* Ruby version
+※トランスジェンダーとは・・・心の性(性自認)とからだの性(身体的性)が一致していない人のことを指す。また、必ずしも男性/女性の区分けに収まるわけではなく、中性や無性などの状態も指す。
+<...>
 
-* System dependencies
+### ターゲットユーザ
+トランスジェンダーで外出時に公共または施設・店舗のトイレを利用する人
+<...>
 
-* Configuration
+### 主な利用シーン
+トイレに行きたくなった時
+トイレ情報を共有したい時
+<...>
 
-* Database creation
+## 設計書
+<...>
 
-* Database initialization
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 使用素材
+- 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名とURLを明記してください。
+- 使用しない場合は、使用素材の項目をREADMEから削除してください。
